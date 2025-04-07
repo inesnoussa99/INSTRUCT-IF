@@ -1,0 +1,5 @@
+Attention dans class Service
+
+Déclaration de la classe entity dans persistance xml <- "entity not known"
+création de la fabrique <- "null pointer exep"
+Transaction <- "table vide"
